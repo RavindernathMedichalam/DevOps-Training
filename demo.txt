@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is EE50-24AD
+
+ Directory of C:\Ravindernath M\Git Practice
+
+12/14/2018  02:17 PM    <DIR>          .
+12/14/2018  02:17 PM    <DIR>          ..
+12/14/2018  02:17 PM                 0 demo.txt
+12/13/2018  07:57 PM                 4 test.html
+12/14/2018  02:17 PM                 8 test.txt
+               3 File(s)             12 bytes
+               2 Dir(s)  135,895,564,288 bytes free
